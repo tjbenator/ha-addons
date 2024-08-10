@@ -1,6 +1,6 @@
 name: "HA Electric Usage Download"
 description: "A HA wrapper for Ted Pearsons electric-usage-downloader"
-version: "1.0.0"
+version: "1.0.1"
 slug: "electric-usage-downloader"
 init: false
 arch:

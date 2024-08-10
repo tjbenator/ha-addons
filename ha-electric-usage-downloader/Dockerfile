@@ -5,7 +5,7 @@ FROM $BUILD_FROM
 COPY run.sh /
 
 # version of tedpearson/electric-usage-downloader
-ARG BUILD_ARCH VERSION=v2.0.3
+ARG BUILD_ARCH VERSION=v2.2.0
 
 #RUN mkdir /app
 WORKDIR /app
